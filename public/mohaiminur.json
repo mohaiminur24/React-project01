@@ -1,0 +1,101 @@
+{
+    "name": "MohaiMinur rahman Mukta",
+    "age": 23,
+    "email": "mohaiminur24@gmail.com",
+    "profession":"Font-end Website Developer",
+    "education":[
+        {
+            "fullfrom":"Junior School certificate",
+            "exam":"J.S.C",
+            "rsult": "4.71 (out of 5)",
+            "board": "Rangpur"
+        },
+        {
+            "fullfrom":"Secoundary School Certificate",
+            "exam":"S.S.C",
+            "subject": "science",
+            "rsult": "4.72 (out of 5)",
+            "board": "Rangpur"
+        },
+        {
+            "fullfrom":"Higher Secoundary School Certificate",
+            "exam":"H.S.C",
+            "subject": "science",
+            "rsult": "2.83(out of 5)",
+            "board": "Rajshashi"
+        },
+        {
+            "fullfrom":"Diploma in Engineering",
+            "subject": "Computer science",
+            "exam":"H.S.C",
+            "rsult": "3.83 (out of 4)",
+            "board": "Rajshashi"
+        }
+    ],
+
+    "Skill":[
+        {
+            "title":"HTML",
+            "lavel":"Expert",
+            "parcent": 100,
+            "experience": "3 years"
+        },
+        {
+            "title":"CSS",
+            "lavel":"Expert",
+            "parcent": 100,
+            "experience": "3 years"
+        },
+        {
+            "title":"Bootstrap",
+            "lavel":"Advance intermediate",
+            "parcent": 80,
+            "experience": "2 years"
+        },
+        {
+            "title":"Tailwind",
+            "lavel":"Advance intermediate",
+            "parcent": 90,
+            "experience": "2 years"
+        },
+        {
+            "title":"JavaScript",
+            "lavel":"Advance intermediate",
+            "parcent": 70,
+            "experience": "1 years"
+        },
+        {
+            "title":"React JS",
+            "lavel":"intermediate",
+            "parcent": 70,
+            "experience": "1 years"
+        },
+        {
+            "title":"Next JS",
+            "lavel":"Beginner",
+            "parcent": 30,
+            "experience": "0 years"
+        }
+        
+    ],
+
+    "address": {
+       "street": "Bamondanga",
+       "city": "Gaibandha",
+       "state": "Rangpur",
+       "zip": "5721"
+    },
+    "phoneNumbers": [
+       {
+          "type": "home",
+          "number": "01748356996"
+       },
+       {
+          "type": "Personal",
+          "number": "01409579471"
+       }
+    ],
+    "isMarried": false,
+    "favoriteColors": ["blue", "green", "purple"]
+ }
+ 
